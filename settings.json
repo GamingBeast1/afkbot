@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "DAKUKING",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "dakusmpofficial.aternos.me",
+    "port": 20660,
+    "version": "1.19.2"
   },
 
   "position": {
@@ -51,7 +51,7 @@
         "I'm a regular player ",
         "My owner is urFate_ ",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "hello"
       ]
     },
 
